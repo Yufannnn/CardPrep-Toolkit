@@ -2,6 +2,8 @@
 
 This project provides a set of tools for card enthusiasts to prepare card images for printing. Users can resize card images to standard poker card dimensions, rename files for easier management, arrange multiple cards on a single printable sheet, and trim unwanted white margins from card images. The tools use Python and leverage libraries such as Pillow and OpenCV for image processing tasks. Whether you are looking to print custom game cards or organize a collection of card images, this toolkit can simplify the preparation process.
 
+![image](res/img/card.png)
+
 ## Features
 
 - **Resizing**: Resize card images to standard poker card dimensions.
